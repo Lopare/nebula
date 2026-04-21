@@ -1,1 +1,4 @@
-{"setting": "value"}
+{
+  "setting": "value",
+  "new_parametr": "test"
+}
